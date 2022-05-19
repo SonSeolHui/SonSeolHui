@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 파이썬 입문중(2022.04 ~)
 <!--
 **SonSeolHui/SonSeolHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
