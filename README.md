@@ -1,6 +1,6 @@
-### <h1>Hi there 👋</h1>
-### 파이썬 입문중(2022.04 ~ ?)
-### HTML 공부중(2022.11 ~)
+### <h1>Hi there 👋</h1><h6><del>(no one)</del></h6>
+### <del>파이썬 입문중(2022.04 ~ 2022.08)</del> (잠시 쉬는중)
+### HTML 공부중(2022.11 ~) <h6><b>new!</b></h6>
 <!--
 **SonSeolHui/SonSeolHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
